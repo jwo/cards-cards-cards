@@ -42,3 +42,7 @@ gem 'bourbon'
 gem 'refills'
 gem 'bitters'
 gem 'neat'
+
+group :production do
+  gem 'rails_12factor'
+end
