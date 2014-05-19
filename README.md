@@ -1,4 +1,6 @@
-== Cards. Cards Everywhere
+Cards. Cards Everywhere
+-------------------------
+
 
 Bourbon has super sweet cards, but it's a bit hard to use if you're not familiar
 with the bourbon/neat/refills stack.
@@ -16,3 +18,5 @@ To get here:
 
 
 This will create the files herein. (Besides a page to render the cards partial)
+
+![img](http://i.imgur.com/Chp0lMu.png)
